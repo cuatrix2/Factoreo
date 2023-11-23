@@ -60,7 +60,7 @@
             echo "<p>Proceso de cálculo del factorial para <strong>$numero</strong>:</p>";
             
             // Mostrar el número ingresado
-            echo "<p>Paso 0: Se ha ingresado el número <strong>$numero</strong>.</p>";
+            echo "<p>Se ha ingresado el número <strong>$numero</strong>.</p>";
 
             // Inicializar el resultado
             $resultado = 1;
