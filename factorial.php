@@ -72,7 +72,7 @@
             }
 
             // Mostrar el resultado final
-            echo "<p>Paso " . ($numero + 1) . ": El factorial de <strong>$numero</strong> es <strong>$resultado</strong>.</p>";
+            echo "<p>Resultado " .   ": El factorial de <strong>$numero</strong> es <strong>$resultado</strong>.</p>";
             
             echo '</div>';
         }
